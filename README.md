@@ -1,12 +1,12 @@
-### Hi there, I'm Hasbi Ma'arif <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hey there, I'm Hasbi Ma'arif <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
 <br />
 
-- 💻 Currently I'm undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineer
-- 🌱 I'm learning Full Stack Development, Machien Learning
-- 👯 I’m looking to collaborate on Web Development Projects
+- 💻 Currently I'm an undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineering
+- 🌱 I'm learning Full Stack Development, Machine Learning
+- 👯 I’m looking to collaborate on Web Development and electrical projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always a beginner
 
@@ -29,77 +29,42 @@
 <br />
 
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
-
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Hijaan&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hijaan&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hijaan&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=github)](https://github.com/darshanr27)
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hijaan&theme=github)](https://github.com/darshanr27)
 
  <br>
- <br>
- 
-[![An image of @darshanr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanr)](https://holopin.io/@darshanr)
 
-
- <br> 
- 
  <hr>
- 
- <br>
 
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.darshanr.in" target="_blank">
-  <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
+<a href="https://www.linkedin.com/in/hasbimaarif/" target="_blank">
   <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/darshan_r_27" target="_blank">
-  <img align="center" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
+<a href="https://www.instagram.com/hsbmrif/" target="_blank">
   <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:darshandarsh27blr@gmail.com" target="_blank">
+<a href="mailto:hasbimaarif2@gmail.com" target="_blank">
   <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.darshanr.in/resume">
-    <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
   
 <br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
-</p>
-   
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
+  *\* NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
   
   ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
