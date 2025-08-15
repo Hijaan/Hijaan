@@ -1,14 +1,14 @@
-### Hi there, I'm Darshan R <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Hasbi Ma'arif <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
 <br />
 
-- 💻 Currently I'm working as a Python Developer
-- 🌱 I'm learning Full Stack Development
+- 💻 Currently I'm undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineer
+- 🌱 I'm learning Full Stack Development, Machien Learning
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
+- ⚡ Fun fact: I'm always a beginner
 
 <br />
 
