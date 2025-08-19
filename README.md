@@ -5,7 +5,7 @@
 <br />
 
 - 💻 Currently I'm an undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineering
-- 🌱 I'm learning Full Stack Development, Machine Learning
+- 🌱 I'm learning Web Development, Machine Learning, Data Science
 - 👯 I’m looking to collaborate on Web Development and electrical projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always a beginner
