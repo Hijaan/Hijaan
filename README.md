@@ -1,9 +1,7 @@
 ### Hey there, I'm Hasbi Ma'arif <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
-
 <br />
-
 Working as Manager Team Evosky, Autonomous System for KRTI
 
 - 💻 Currently I'm an undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineering
