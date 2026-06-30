@@ -13,7 +13,7 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="left" alt="Python" width="26px" src="Assets/python.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
