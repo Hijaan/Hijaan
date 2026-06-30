@@ -2,7 +2,7 @@
 
 ---
 <br />
-Working as Manager Team Evosky, Autonomous System for KRTI
+Currently Woriking as Manager Team Evosky, VTOL Autonomous System for KRTI
 
 - 💻 Currently I'm an undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineering
 - 🌱 I'm learning Machine Learning, Data Science, Robotics and Embeeded System
@@ -16,7 +16,6 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 <img align="left" alt="Python" width="26px" src="Assets/python.png" />
 <img align="left" alt="Platform IO" width="26px" src="Assets/platformio-logo.17fdc3bc.png" />
 <img align="left" alt="Fusion 360" width="26px" src="Assets/images.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="C" width="26px" src="Assets/C.png" />
 <img align="left" alt="GitHub" width="26px" src="Assets/github.png" />
 <img align="left" alt="Figma" width="26px" src="Assets/figma.png" />
@@ -27,7 +26,7 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hijaan?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hijaan?cardType=github&theme=dark&fontFamily=Afacad%20Flux&preferLogin=false)](https://git.io/awesome-stats-card)
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
