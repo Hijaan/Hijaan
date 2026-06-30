@@ -3,6 +3,7 @@
 ---
 <br />
 Working as Manager Team Evosky, VTOL Autonomous System for KRTI
+<br />
 
 - 💻 Currently I'm an undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineering
 - 🌱 I'm learning Machine Learning, Data Science, Robotics and Embeeded System
