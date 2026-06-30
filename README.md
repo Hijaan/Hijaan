@@ -27,8 +27,7 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=Hijaan&theme=nord&show_icons=true&count_private=true)
-  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Hijaan?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) 
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
