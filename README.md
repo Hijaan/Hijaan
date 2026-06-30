@@ -23,6 +23,11 @@ Currently Woriking as Manager Team Evosky, VTOL Autonomous System for KRTI
 <br />
 <br />
 
+<!-- Featured Projects--->
+### Featured Projects :
+- SIGMA (Smart IOT Gas temprature Flame And Electrical Automation)- IOT Monitoring using Telegram to get information for room status, Have Lamp and Terminal Scheduler, Hazard Condition monitor like Gas, Flame. And also have automatic on/off terminal when room getting hot
+- Automatic Fish Feeder - Feed scheduler and can change amount of food for catfish (Pengabdian Masyarakat with BIMA Kemendikti)
+- Autonomus VTOL - Design Custom 3D component and managing team to make autonomus quadcopter system. Use Camera to detecting Object, Drop the Object, and fly with GPS denied (Still On Progress)
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
