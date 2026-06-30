@@ -6,7 +6,7 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 
 - 💻 Currently I'm an undergraduate student at Institut Teknologi Kalimantan majoring in electrical engineering
 - 🌱 I'm learning Machine Learning, Data Science, Robotics and Embeeded System
-- 👯 I’m looking to collaborate on Web Development and electrical projects
+- 👯 I’m looking to collaborate on Web Development, Electrical projects and Robotics Projects
 - 😄 Pronouns: He/Him
 
 <br />
@@ -17,7 +17,7 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 <img align="left" alt="Platform IO" width="26px" src="Assets/platformio-logo.17fdc3bc.png" />
 <img align="left" alt="Fusion 360" width="26px" src="Assets/images.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="Assets/git.png" />
+<img align="left" alt="C" width="26px" src="Assets/C.png" />
 <img align="left" alt="GitHub" width="26px" src="Assets/github.png" />
 <img align="left" alt="Figma" width="26px" src="Assets/figma.png" />
 
