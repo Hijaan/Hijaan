@@ -19,7 +19,7 @@ Working as Manager Team Evosky, Autonomous System for KRTI
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+<img align="left" alt="Figma" width="26px" src="Assets/figma.png" />
 
 <br />
 <br />
